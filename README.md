@@ -10,6 +10,6 @@ This project incorporates:
   - Ensemble of classifiers
 
 
-## Installation
+### Installation
 
 The project should run without any configuration changes.
