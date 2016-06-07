@@ -4,7 +4,7 @@ My machine learning coursework submitted at the University of East Anglia.
 
 The goal of this project was to correctly classify datasets using the linear perceptron machine learning algorithm.
 
-This linear perceptron makes use of:
+This project incorporates:
   - Online & Offline learning update rules
   - Cross Validation
   - Ensemble
