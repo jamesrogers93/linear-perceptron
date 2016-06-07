@@ -1,0 +1,15 @@
+@RELATION perceptron
+
+@ATTRIBUTE x1  	numeric
+@ATTRIBUTE x2  numeric
+@ATTRIBUTE t   {-1,1}
+@DATA
+
+ -2, -8, ?
+  3,  6, ?
+ -8,  4, ?
+ 10,  4, ?
+ 12, 12, ?
+
+
+
