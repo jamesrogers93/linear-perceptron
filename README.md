@@ -12,4 +12,4 @@ This project incorporates:
 
 ### Installation
 
-The project should run without any configuration changes.
+The project should run without the need of changing any configuration settings.
