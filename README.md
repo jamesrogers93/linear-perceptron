@@ -7,7 +7,7 @@ The goal of this project was to correctly classify datasets using the linear per
 This project incorporates:
   - Online & Offline learning update rules
   - Cross Validation
-  - Ensemble
+  - Ensemble of classifiers
 
 
 ## Installation
